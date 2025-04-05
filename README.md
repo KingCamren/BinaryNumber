@@ -1,4 +1,5 @@
 yo. made this project bc i hated doing binary division by hand, and it just ballooned into a complete binary calculator sorta thing for fun
+i'm quite frankly pretty nooby at c++, so this code might not be 100% optimized; if u notice anything that could be improved, pls lmk since i want practice to improve
 
 some things to note:
 - despite the methods using template types, don't perform operations between a signed and an unsigned binary number. it would give u a wrong answer if u tried on paper or in an assembly language, so i'm not gonna account for that
